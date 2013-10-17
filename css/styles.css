@@ -1,10 +1,20 @@
-header {
-	background: red;
+/* 
+Color Palette
+1st #40817B, Darker Green
+2nd #E1D7E3, Light Purple
+3rd #70AB9A, Lighter Green
+*/
+
+body {
+	background: url("../img/rice.png")
+	font-family: 'Allerta', sans-serif;
 }
 
-nav {
-	background: green;
+h1 {
+	color: #40817B;
 }
+
+
 
 
 

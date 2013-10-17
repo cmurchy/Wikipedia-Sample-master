@@ -1,0 +1,18 @@
+body {
+	background: red;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* Helper Classes */
+.showgrid {
+	background: url("../img/12_col.gif") !important;
+}
